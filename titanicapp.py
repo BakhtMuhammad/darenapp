@@ -3,7 +3,7 @@ import streamlit as st
 import pickle
 
 #Set the title and an image for the web app
-st.title("Welcome to Daren's Prediction App")
+st.title("Welcome to Daren's Survival Prediction App")
 st.image('image.png')
 
 #Load the pre-trained model
